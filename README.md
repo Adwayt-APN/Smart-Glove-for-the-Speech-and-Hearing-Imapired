@@ -1,0 +1,2 @@
+# Smart-Glove-for-the-Speech-and-Hearing-Imapired
+An early attempt at making a smart glove using flex sensors. The readings acquired from flexing fingers are recorded and decisions are made using if-else decision statements. It is really really basic, but it's a great way to get your feet wet if you are new to sensors and arduino and stuff. Maybe I'll add a few more sensors and ML to make a legit glove later, but for what it's worth, it works.  
